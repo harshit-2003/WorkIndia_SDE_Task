@@ -3,8 +3,16 @@ SDE Frontend Round: Building a website using React JS with the use of API.
 # Screenshots:
 
 # All candidates: 
-
 ![All](https://github.com/harshit-2003/WorkIndia_SDE_Task/assets/87594931/04621e30-d72e-43e9-b500-999bfef683cb)
+
+# Applied : 
+![app](https://github.com/harshit-2003/WorkIndia_SDE_Task/assets/87594931/333b685c-233f-44b6-a877-cb0296562e07)
+
+# Accepted:
+![acc](https://github.com/harshit-2003/WorkIndia_SDE_Task/assets/87594931/10830a7b-6d11-4a8a-ad11-f287938f7e89)
+
+# Rejected: 
+![rej](https://github.com/harshit-2003/WorkIndia_SDE_Task/assets/87594931/4f1170b0-2938-4a02-9a86-44400f721d97)
 
 # Getting Started with Create React App
 
