@@ -1,8 +1,10 @@
-# WorkIndia_SDE_Task
+![WhatsApp Image 2023-09-10 at 11 03 05](https://github.com/harshit-2003/WorkIndia_SDE_Task/assets/87594931/958884a6-6d60-4e1b-b975-a66061337ddb)# WorkIndia_SDE_Task
 SDE Frontend Round: Building a website using React JS with the use of API.
+# Screenshots:
 
+# All candidates: 
 
-
+![All](https://github.com/harshit-2003/WorkIndia_SDE_Task/assets/87594931/04621e30-d72e-43e9-b500-999bfef683cb)
 
 # Getting Started with Create React App
 
